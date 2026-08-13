@@ -1,0 +1,14 @@
+{
+  "name": "voice-farm-music-template",
+  "version": "1.0.0",
+  "description": "Selfbot Voice 24/7 with Music Player",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "3.7.1",
+    "express": "4.19.2",
+    "play-dl": "1.9.7"
+  }
+}
